@@ -1,36 +1,61 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🏢 Sistem Inventaris Aset PT Tekno Jaya
 
-## Getting Started
+## 📌 Tentang Aplikasi
 
-First, run the development server:
+Solusi modern untuk manajemen aset perusahaan yang efisien, powerful, dan mudah digunakan!
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### 🚀 Fitur Utama
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Manajemen Aset Komprehensif**
+  - Tambah, edit, dan hapus aset dengan antarmuka intuitif
+  - Pelacakan detail lengkap setiap aset perusahaan
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Pencarian & Pelaporan Cepat**
+  - Temukan aset dalam sekejap berdasarkan kode atau nama
+  - Ekspor laporan dalam format PDF secara instan
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Keamanan Terjamin**
+  - Sistem login aman dengan autentikasi bertingkat
+  - Kontrol akses berbasis peran pengguna
 
-## Learn More
+## 🖥️ Tangkapan Layar Aplikasi
 
-To learn more about Next.js, take a look at the following resources:
+### 1. Halaman Login
+![Halaman Login](https://github.com/user-attachments/assets/c5fe8eeb-93e4-4b94-94bd-4f2b5b46aec9)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Antarmuka login yang bersih dan aman untuk akses sistem
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 2. Dashboard Utama
+![Dashboard](https://github.com/user-attachments/assets/c505443f-172d-4e5e-a4cc-6cbbaec6010e)
 
-## Deploy on Vercel
+Ringkasan komprehensif aset perusahaan dalam satu tampilan
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 3. Daftar Aset (Dashboard Pengguna)
+![Daftar Aset](https://github.com/user-attachments/assets/99208824-66c4-4ffb-accd-7928a807a00d)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Daftar lengkap aset dengan filter dan pencarian cepat
+
+### 4. Dafter Asset Gudang (Admin)
+![Tambah Aset](https://github.com/user-attachments/assets/8034f517-f639-4e65-97c5-38b9459c58f7)
+
+
+### 5. Registrasi akun 
+![Detail Aset](https://github.com/user-attachments/assets/8abd505c-79ca-4ac0-a7bf-d0825443c28e)
+
+
+
+### 6. Tambah Product
+![Laporan Aset](https://github.com/user-attachments/assets/14ec90d1-5696-4bcf-a58e-f70f5d79d221)
+
+
+
+## 🔧 Teknologi Frontend
+
+- **Framework**: Next.js 14
+- **Library**: React.js 18
+- **Styling**: Tailwind CSS
+- **State Management**: React Hooks
+
+
+
+**Dibuat dengan ❤️ oleh Fiqri Agustriawan**
