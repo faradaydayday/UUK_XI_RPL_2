@@ -44,8 +44,9 @@ Daftar lengkap aset dengan filter dan pencarian cepat
 
 
 
+
 ### 6. Tambah Product
-![Laporan Aset](https://github.com/user-attachments/assets/14ec90d1-5696-4bcf-a58e-f70f5d79d221)
+![Laporan Aset](https://github.com/user-attachments/assets/b226f9f7-0bab-482a-b453-298edcfaaadf)
 
 
 
