@@ -20,7 +20,7 @@ const UpdateAccountPage = () => {
               
               <div className="flex justify-center gap-32">
                 <div className="w-40 pt-1">
-                  <h2 className="text-3xl font-medium text-primary">Account</h2>
+                  <h2 className="text-3xl font-medium text-primary">Product</h2>
                 </div>
                 
                 <form className="w-[500px]">
@@ -28,8 +28,8 @@ const UpdateAccountPage = () => {
                     <div>
                       <input
                         type="text"
-                        name="firstName"
-                        placeholder="First Name"
+                        name="Nama"
+                        placeholder="Name"
                         className="w-full p-3 border border-gray-200 rounded-lg bg-gray-300"
                 
                       />
@@ -38,8 +38,8 @@ const UpdateAccountPage = () => {
                     <div>
                       <input
                         type="text"
-                        name="lastName"
-                        placeholder="Last Name"
+                        name="Nama"
+                        placeholder="Number of items"
                         className="w-full p-3 border border-gray-200 rounded-lg bg-gray-300"
                      
                       />
@@ -47,9 +47,9 @@ const UpdateAccountPage = () => {
 
                     <div>
                       <input
-                        type="email"
-                        name="email"
-                        placeholder="Email ID"
+                        type="text"
+                        name="date"
+                        placeholder="Purchase Date"
                         className="w-full p-3 border border-gray-200 rounded-lg bg-gray-300"
                   
                       />
@@ -57,9 +57,9 @@ const UpdateAccountPage = () => {
 
                     <div>
                       <input
-                        type="password"
-                        name="password"
-                        placeholder="Password"
+                        type="text"
+                        name="unit"
+                        placeholder="Unit price"
                         className="w-full p-3 border border-gray-200 rounded-lg bg-gray-300"
                
                       />

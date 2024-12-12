@@ -51,7 +51,7 @@ const page = () => {
               </thead>
               <tbody>
                 {[
-                  { productName: '', seriesNo: 'TJ0001', items: 25, purchaseDate: '11 Januari 2022', unitPrice: '450.000' },
+                  { productName: 'Mouse', seriesNo: 'TJ0001', items: 25, purchaseDate: '11 Januari 2022', unitPrice: '450.000' },
                   { productName: 'Chair', seriesNo: 'TJ0002', items: 66, purchaseDate: '11 Januari 2022', unitPrice: '325.000' },
                   { productName: 'Laptop', seriesNo: 'TJ0015', items: 120, purchaseDate: '21 Juni 2022', unitPrice: '11.750.000' },
                   { productName: 'Monitor', seriesNo: 'TJ1212', items: 20, purchaseDate: '15 April 2022', unitPrice: '12.335.000' },
